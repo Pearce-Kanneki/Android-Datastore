@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exercise-DataStore</string>
+    <string name="add_button">增加</string>
+</resources>
